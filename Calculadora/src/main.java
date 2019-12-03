@@ -27,12 +27,7 @@ public class main {
             break;
             default:
                 System.out.println("Illigal Operation");
-
-
         }
-
-
-
     }
     public static int add(int x, int y)
     {
