@@ -26,7 +26,7 @@ public class main {
             System.out.println(div( num1,num2));
             break;
             default:
-                System.out.println("Illegal Operation xyz");
+                System.out.println("Illegal Operation xyzss");
         }
     }
     public static int add(int x, int y)
